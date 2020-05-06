@@ -3124,28 +3124,10 @@ section.lazy-placeholder:after {
 .cid-rN2h8TF7SY .dropdown-item:hover {
   color: #f7ed4a !important;
 }
-.cid-rN6dASJDwH {
-  padding-top: 120px;
-  padding-bottom: 30px;
-  background-color: #2e2e2e;
-}
-.cid-rN6dASJDwH .line {
-  background-color: #ffffff;
-  color: #ffffff;
-  align: center;
-  height: 2px;
-  margin: 0 auto;
-}
-.cid-rN6dASJDwH .section-text {
-  padding: 2rem 0;
-}
-.cid-rN6dASJDwH .inner-container {
-  margin: 0 auto;
-}
-@media (max-width: 768px) {
-  .cid-rN6dASJDwH .inner-container {
-    width: 100% !important;
-  }
+.cid-rYee6E2eeX {
+  padding-top: 135px;
+  padding-bottom: 75px;
+  background-image: url("../../../assets/images/op-manufacturing-process-flow-concrete-rev-121-2000x364.png");
 }
 .cid-rN6dE9Topu {
   padding-top: 60px;
